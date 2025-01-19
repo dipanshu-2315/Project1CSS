@@ -1,3 +1,3 @@
 # Project1CSS
-Author - Dipanshu
+Author - Dipanshu.
 This is My First Web Development Project
